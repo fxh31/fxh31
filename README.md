@@ -1,6 +1,6 @@
 ### Hello 👋 World 🌎 
 
-[![Fxh31's](https://github-readme-stats.vercel.app/api/top-langs/?username=fxh31&layout=compact&hide=java,stylus,ejs)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Fxh31's](https://github-readme-stats.vercel.app/api/top-langs/?username=fxh31&layout=compact&hide=java,stylus,ejs)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 [![Fxh31's GitHub stats](https://github-readme-stats.vercel.app/api?username=fxh31&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 **fxh31/fxh31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
